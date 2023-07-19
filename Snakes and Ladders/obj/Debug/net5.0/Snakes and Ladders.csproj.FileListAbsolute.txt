@@ -1,0 +1,16 @@
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\Snakes and Ladders.exe
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\Snakes and Ladders.deps.json
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\Snakes and Ladders.runtimeconfig.json
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\Snakes and Ladders.runtimeconfig.dev.json
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\Snakes and Ladders.dll
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\ref\Snakes and Ladders.dll
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\bin\Debug\net5.0\Snakes and Ladders.pdb
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.csproj.AssemblyReference.cache
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.AssemblyInfoInputs.cache
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.AssemblyInfo.cs
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.csproj.CoreCompileInputs.cache
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.dll
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\ref\Snakes and Ladders.dll
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.pdb
+D:\Documents\WIPRO PJP\Snakes and Ladders\Snakes and Ladders\obj\Debug\net5.0\Snakes and Ladders.genruntimeconfig.cache
